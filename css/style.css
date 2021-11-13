@@ -1,0 +1,50 @@
+.wpm_contact_area{
+width:100%;
+padding:120px 0px 0px;
+}
+.wpm_contact_area .col-sm-4{
+margin-bottom:30px;
+}
+.wpm_contact_area a{
+color:#696872;
+}
+.wpm_contact_area a:hover{
+text-decoration:underline;
+}
+.wpm_contact_area .form-control:focus{
+border-color: #EF5350;
+box-shadow: none;
+}
+body{
+background-color: #FFFFE0;
+}
+.wpm_contact_area textarea{
+margin-top:30px;
+margin-bottom:30px;
+}
+.wpm_maph{
+margin-top:120px;
+}
+.row{
+max-width:1170px;
+margin:auto;
+}
+.image-student
+{
+margin-top: 20%;
+border-radius: 20px;
+border: 5px solid black;
+}
+footer{
+	left: 50%;
+	position: fixed;
+	top: 95%;
+}
+.navbar-color{
+	background-color: #FFA500;
+}
+.ul-info .li-info{
+	display: inline-block;
+	margin-right: 50px;
+	list-style: none;
+}
